@@ -1,0 +1,44 @@
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\bin\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\bin\Debug\Best Notepad.pdb
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.pdb
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\bin\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\bin\Debug\Best Notepad.pdb
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.pdb
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\bin\Debug\Best Notepad.exe
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\bin\Debug\Best Notepad.pdb
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.exe
+D:\Download\SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.pdb
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\bin\Debug\Best Notepad.exe.config
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\bin\Debug\Best Notepad.exe
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\bin\Debug\Best Notepad.pdb
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.exe
+C:\Users\dell\Desktop\PROJECT\PN-SIMPLE_TEXT_EDITOR_IN_C_UPDATED_WITH_SOURCE_CODE\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.pdb
